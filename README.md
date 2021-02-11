@@ -1,1 +1,3 @@
-Hello second feature branch!
+Hello feature branch!
+
+Some other stuff
